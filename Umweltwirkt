@@ -1,0 +1,91 @@
+<!DOCTYPE html><html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KLIMAWIRKT e.V. – Wir halten das Ziel vor Augen</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4fdf6;
+      color: #2e3d30;
+    }
+    header {
+      background-color: #d2efe2;
+      padding: 2rem;
+      text-align: center;
+    }
+    header img {
+      max-height: 80px;
+    }
+    header h1 {
+      margin: 1rem 0 0.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #3e594d;
+    }
+    section {
+      padding: 2rem;
+    }
+    h2 {
+      color: #1b3c2e;
+    }
+    footer {
+      background-color: #d2efe2;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+    .bereich {
+      background-color: #ffffff;
+      padding: 1.5rem;
+      margin: 1rem 0;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    .btn {
+      display: inline-block;
+      background-color: #2e3d30;
+      color: white;
+      padding: 0.7rem 1.5rem;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="KLIMAWIRKT Logo">
+    <h1>KLIMAWIRKT e.V.</h1>
+    <p>Wir halten das Ziel vor Augen</p>
+  </header>  <section>
+    <h2>Unsere Mission</h2>
+    <p>KLIMAWIRKT e.V. ist ein gemeinnütziger Verein, der sich für echten, langfristigen Klimaschutz einsetzt. Wir helfen Menschen dabei, CO₂ zu reduzieren, zu kompensieren und klimabewusst zu handeln – lokal in Deutschland und bald weltweit.</p>
+  </section>  <section class="bereich">
+    <h2>🌱 CO₂ reduzieren</h2>
+    <p>Wir beraten Bürger*innen und Organisationen, wie sie CO₂ in Alltag und Unternehmen senken können. Mit Checklisten, Workshops und individueller Hilfe.</p>
+  </section>  <section class="bereich">
+    <h2>🌳 CO₂ kompensieren</h2>
+    <p>Wir unterstützen zertifizierte Projekte zur Wiederaufforstung, Moor-Renaturierung und nachhaltigen Energie – transparent und wirkungsvoll.</p>
+  </section>  <section class="bereich">
+    <h2>♻️ Kreislaufwirtschaft stärken</h2>
+    <p>Mit Repair-Cafés, Tauschbörsen und lokalen Wiederverwendungsaktionen fördern wir Nachhaltigkeit vor Ort.</p>
+  </section>  <section>
+    <h2>🧮 Dein CO₂-Fußabdruck</h2>
+    <p>Bald verfügbar: Ein einfacher Rechner, mit dem du deine Emissionen abschätzen kannst.</p>
+  </section>  <section>
+    <h2>🚀 Unterstützen</h2>
+    <p>Möchtest du unsere Arbeit fördern? Werde Mitglied oder unterstütze uns mit einer Spende.</p>
+    <a href="#" class="btn">Jetzt mitmachen</a>
+  </section>  <section>
+    <h2>📩 Kontakt</h2>
+    <p>Fragen oder Ideen? Schreib uns an <strong>kontakt@klimawirkt.de</strong></p>
+  </section>  <footer>
+    <p>© 2025 KLIMAWIRKT e.V. – Gemeinnütziger Verein für Klimaschutz</p>
+  </footer>
+</body>
+</html>
